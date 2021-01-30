@@ -1,3 +1,5 @@
+#Variables and Data Types
+
 #int 1, 2, 76, -5, 0
 #str "Arsalan" , 'Bardsiri' , "0" , '1'
 #bool True, False
@@ -14,7 +16,6 @@ age = 21
 print(age)
 
 #restrictions
-
 var = 0
 _var = 1
 var_ = 2
