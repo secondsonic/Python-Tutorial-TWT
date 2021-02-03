@@ -1,6 +1,6 @@
 # Iteration by item
 
-fruits = ['apples', 'pears', 'straberries']
+fruits = ['apples', 'pears', 'strawberries']
 
 for fruit in fruits:
     print(fruit)
