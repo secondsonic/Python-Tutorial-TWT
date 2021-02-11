@@ -34,7 +34,7 @@ num2 = input()
 
 SUM = num1 + num2
 print(type(SUM))
-print("This is and error: ", SUM) #give data type error since receives str not int
+print("This is an error: ", SUM) #give data type error since receives str not int
 
 SUM0 = int(num1) + int(num2)
 print(type(SUM0))
