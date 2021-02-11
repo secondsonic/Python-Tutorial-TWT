@@ -19,11 +19,11 @@ def func0(x, text = '2'): #text is defaulted to the value of the 2
 
 func0('Arsalan', '1')
 
-def func0(x = '2', text = '1'):
+def func1(x = '2', text = '1'):
     print(x)
     if text == '1':
         print('Text is one')
     else:
         print("Text is not one")
 
-func0()
+func1()

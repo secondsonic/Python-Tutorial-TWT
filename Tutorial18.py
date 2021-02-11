@@ -1,4 +1,4 @@
-#Error handling, Try and except same as try and catch
+12#Error handling, Try and except same as try and catch
 
 text = input('Username: ')
 try:

@@ -10,7 +10,7 @@ newList = []
 
 for line in f:
     if line[-1] == '\n':    #to remove only if there is an \n new line escape char
-        newList.append(line[:-1]) #to remove last chat for \n 
+        newList.append(line[:-1]) #to remove last char for \n 
     else:
         newList.append(line) #to have the last statement in file
 print(newList)
